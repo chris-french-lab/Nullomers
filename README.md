@@ -1,2 +1,2 @@
 # Nullomers
-Script for Nullomer discovery
+Script for Nullomer's discovery
